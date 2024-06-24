@@ -1,2 +1,4 @@
 # full-stack
-nestjs + vue3 + typescript
+
+# 参考文档
+[pnpm 中文网](https://www.pnpm.cn/pnpm-cli)
